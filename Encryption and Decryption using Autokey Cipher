@@ -72,3 +72,12 @@ decrypted_text = decryptWithAutoKey(encrypted_text, key)
 print("Encrypted Text =", encrypted_text)
 print("Decrypted Text =", decrypted_text)
 
+
+######################
+
+OUTPUT:
+
+Enter the text to be encrypted: ALPHABETACHARLIE
+Key: SECRET
+Encrypted Text = SPRYEUEEPJHBVEIG
+Decrypted Text = ALPHABETACHARLIE
